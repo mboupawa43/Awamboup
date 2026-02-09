@@ -13,8 +13,6 @@ col1, col2 = st.columns([1, 3])  # Colonne de droite plus large
 # ===== COLONNE GAUCHE =====
 with col1:
     # Image centrée et recadrée
-   
-    st.image("cv.jpg", width=200)
 
     # Coordonnées
     st.header("Coordonnées")
